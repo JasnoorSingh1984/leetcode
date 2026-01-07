@@ -12,29 +12,25 @@ class Node {
 class Solution {
     public boolean isPalindrome(Node head) {
         // code here
-        if (head==null){
-            return false;
-        }
-        
         ArrayList<Integer> arr=new ArrayList<>();
         
-        Node dummy=head;
-        while (dummy!=null){
-            arr.add(dummy.data);
-            dummy=dummy.next;
+        Node temp=head;
+        while(temp!=null){
+            arr.add(temp.data);
+            temp=temp.next;
         }
         
-        int i=0;
-        int j=arr.size()-1;
-        
-        while (i<j){
-            if (!arr.get(i).equals(arr.get(j))){
+        int left=0;
+        int right=arr.size()-1;
+        while (left<right){
+            if (!arr.get(left).equals(arr.get(right))){
                 return false;
             }
-            i++;
-            j--;
+            left++;
+            right--;
         }
         
         return true;
     }
+    
 }
