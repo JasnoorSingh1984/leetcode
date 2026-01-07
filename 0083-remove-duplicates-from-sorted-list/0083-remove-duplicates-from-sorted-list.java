@@ -10,20 +10,29 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if (head==null){
-            return head;
+        ArrayList<Integer> arr=new ArrayList<>();
+        ListNode temp=head;
+        while (temp!=null){
+            arr.add(temp.val);
+            temp=temp.next;
         }
 
-        ListNode dummy=head;
-
-        while(dummy!=null && dummy.next!=null){
-            if (dummy.val==dummy.next.val){
-                dummy.next=dummy.next.next;
-            }else{
-                dummy=dummy.next;
+        ArrayList<Integer> nums=new ArrayList<>();
+        HashSet<Integer> map=new HashSet<>();
+        for (int i=0;i<arr.size();i++){
+            if (!map.contains(arr.get(i))){
+                map.add(arr.get(i));
+                nums.add(arr.get(i));
             }
         }
 
-        return head;
+        ListNode result=new ListNode(0);
+        ListNode res=result;
+        for (int i=0;i<nums.size();i++){
+            res.next=new ListNode(nums.get(i));
+            res=res.next;
+        }
+
+        return result.next;
     }
 }
