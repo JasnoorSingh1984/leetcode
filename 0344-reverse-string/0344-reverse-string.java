@@ -1,16 +1,16 @@
 class Solution {
-    public void reverseString(char[] s) {
-        ArrayList<Character> arr=new ArrayList<>();
-        int i=s.length-1;
-        while (i>=0){
-            arr.add(s[i]);
-            i--;
+    public static void reverse(char[] s,int st,int ed){
+        if (st>=ed){
+            return;
         }
 
-        int j=0;
-        while (j<s.length){
-            s[j]=arr.get(j);
-            j++;
-        }
+        char temp=s[st];
+        s[st]=s[ed];
+        s[ed]=temp;
+
+        reverse(s,st+1,ed-1);
+    }
+    public void reverseString(char[] s) {
+        reverse(s,0,s.length-1);
     }
 }
