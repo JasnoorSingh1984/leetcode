@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/2410991116/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/2410991116/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/2410991116/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/2410991116/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2410991116/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/2410991116/leetcode/tree/master/0088-merge-sorted-array) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/2410991116/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/2410991116/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/2410991116/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
