@@ -16,17 +16,15 @@ class Solution {
         }
 
         for (int i=idx;i<nums.length;i++){
-            swap(i,idx,nums);
+            swap(nums,i,idx);
             print(nums,idx+1,arr);
-            swap(i,idx,nums);
+            swap(nums,i,idx);
         }
     }
 
-    public void swap(int i,int idx,int[] nums){
-        int temp=nums[i];
-        nums[i]=nums[idx];
-        nums[idx]=temp;
+    public void swap(int[] arr,int i,int idx){
+        int temp=arr[i];
+        arr[i]=arr[idx];
+        arr[idx]=temp;
     }
-
-
 }
