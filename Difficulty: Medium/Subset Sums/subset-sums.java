@@ -2,18 +2,18 @@
 class Solution {
     public ArrayList<Integer> subsetSums(int[] arr) {
         // code here
-        ArrayList<Integer> ans=new ArrayList<>();
-        print(arr,0,0,ans);
-        return ans;
+        ArrayList<Integer> nums=new ArrayList<>();
+        print(arr,0,0,nums);
+        return nums;
     }
     
-    public void print(int[] arr,int idx,int sum,ArrayList<Integer> ans){
+    public void print(int[] arr,int idx,int sum,ArrayList<Integer> nums){
         if (idx==arr.length){
-            ans.add(sum);
+            nums.add(sum);
             return;
         }
         
-        print(arr,idx+1,sum+arr[idx],ans);
-        print(arr,idx+1,sum,ans);
+        print(arr,idx+1,sum+arr[idx],nums);
+        print(arr,idx+1,sum,nums);
     }
 }
