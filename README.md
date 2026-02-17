@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/2410991116/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/2410991116/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2410991116/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/2410991116/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2410991116/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/2410991116/leetcode/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2410991116/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/2410991116/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/2410991116/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/2410991116/leetcode/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
