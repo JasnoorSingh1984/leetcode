@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2410991116/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2410991116/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/2410991116/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/2410991116/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/2410991116/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2410991116/leetcode/tree/master/0268-missing-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/2410991116/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/2410991116/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2410991116/leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/2410991116/leetcode/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
