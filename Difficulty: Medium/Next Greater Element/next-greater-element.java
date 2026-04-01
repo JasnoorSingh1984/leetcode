@@ -1,11 +1,10 @@
 class Solution {
     public ArrayList<Integer> nextLargerElement(int[] arr) {
-        // code here
         ArrayList<Integer> nums=new ArrayList<>();
-        
         Stack<Integer> st=new Stack<>();
         
         for (int i=arr.length-1;i>=0;i--){
+            int curr=arr[i];
             while (!st.isEmpty() && st.peek()<=arr[i]){
                 st.pop();
             }
@@ -16,11 +15,13 @@ class Solution {
                 nums.add(st.peek());
             }
             
-            st.push(arr[i]);
+            st.push(curr);
         }
         
         Collections.reverse(nums);
         
         return nums;
     }
+    
+    
 }
