@@ -1,0 +1,22 @@
+class StockSpanner {
+    List<Integer> prices;
+
+    public StockSpanner() {
+        prices = new ArrayList<>();
+    }
+
+    public int next(int price) {
+        prices.add(price);
+
+        int span = 0;
+        for (int i = prices.size() - 1; i >= 0; i--) {
+            if (prices.get(i) <= price) {
+                span++;
+            } else {
+                break;
+            }
+        }
+
+        return span;
+    }
+}
