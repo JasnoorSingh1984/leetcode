@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2410991116/leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/2410991116/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/2410991116/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/2410991116/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
