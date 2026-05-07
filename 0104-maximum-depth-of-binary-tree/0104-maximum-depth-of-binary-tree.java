@@ -3,10 +3,27 @@ class Solution {
         if (root==null){
             return 0;
         }
+        int max=0;
+        Queue<TreeNode> q=new LinkedList<>();
+        q.add(root);
 
-        int ls=maxDepth(root.left);
-        int rs=maxDepth(root.right);
+        while (!q.isEmpty()){
+            int size=q.size();
 
-        return 1 + Math.max(ls,rs);
+            for (int i=0;i<size;i++){
+                TreeNode curr=q.remove();
+
+                if (curr.left!=null){
+                    q.add(curr.left);
+                }
+                if (curr.right!=null){
+                    q.add(curr.right);
+                }
+            }
+
+            max++;
+        }
+
+        return max;
     }
 }
