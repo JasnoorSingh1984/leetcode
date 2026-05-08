@@ -1,17 +1,17 @@
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> arr=new ArrayList<>();
-        order(arr,root);
+        order(root,arr);
         return arr;
     }
 
-    public void order(List<Integer> arr,TreeNode root){
-        if(root==null){
+    public void order(TreeNode root,List<Integer> arr){
+        if (root==null){
             return;
         }
 
-        order(arr,root.left);
-        order(arr,root.right);
+        order(root.left,arr);
+        order(root.right,arr);
         arr.add(root.val);
     }
 }
