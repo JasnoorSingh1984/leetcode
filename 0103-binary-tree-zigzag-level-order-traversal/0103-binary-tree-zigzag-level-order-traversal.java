@@ -4,25 +4,21 @@ class Solution {
         if (root==null){
             return arr;
         }
-        check(root,arr);
-        return arr;
-    }
 
-    public void check(TreeNode root,List<List<Integer>> arr){
         Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
-        boolean leftToRight=true;
-
+        boolean flag=true;
         while (!q.isEmpty()){
             int size=q.size();
+
             List<Integer> l=new ArrayList<>();
             for (int i=0;i<size;i++){
                 TreeNode curr=q.remove();
 
-                if (!leftToRight){
-                    l.add(0,curr.val);
-                }else{
+                if (flag){
                     l.add(curr.val);
+                }else{
+                    l.add(0,curr.val);
                 }
 
                 if (curr.left!=null){
@@ -32,9 +28,10 @@ class Solution {
                     q.add(curr.right);
                 }
             }
-
             arr.add(l);
-            leftToRight=!leftToRight;
+            flag=!flag;
         }
+
+        return arr;
     }
 }
