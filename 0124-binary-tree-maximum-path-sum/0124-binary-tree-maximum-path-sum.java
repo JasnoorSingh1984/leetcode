@@ -14,7 +14,7 @@ class Solution {
         int ls=Math.max(0,check(root.left,arr));
         int rs=Math.max(0,check(root.right,arr));
 
-        arr[0]=Math.max(arr[0],ls+rs+root.val);
+        arr[0]=Math.max(arr[0],root.val+ls+rs);
 
         return root.val+Math.max(ls,rs);
     }
