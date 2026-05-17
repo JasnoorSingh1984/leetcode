@@ -1,9 +1,9 @@
 class Solution {
-    public boolean isBalanced(TreeNode root){
+    public boolean isBalanced(TreeNode root) {
         return check(root)!=-1;
     }
 
-    public int check(TreeNode root) {
+    public int check(TreeNode root){
         if (root==null){
             return 0;
         }
@@ -23,6 +23,5 @@ class Solution {
         }
 
         return 1+Math.max(ls,rs);
-
     }
 }
