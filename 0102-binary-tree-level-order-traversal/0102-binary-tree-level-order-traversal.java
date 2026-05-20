@@ -12,7 +12,6 @@ class Solution {
             List<Integer> l=new ArrayList<>();
             for (int i=0;i<size;i++){
                 TreeNode curr=q.remove();
-
                 l.add(curr.val);
 
                 if (curr.left!=null){
