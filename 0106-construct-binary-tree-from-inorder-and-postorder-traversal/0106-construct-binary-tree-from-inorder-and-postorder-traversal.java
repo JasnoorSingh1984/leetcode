@@ -2,7 +2,6 @@ class Solution {
     int idx;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         idx=postorder.length-1;
-
         return check(inorder,postorder,0,inorder.length-1);
     }
 
@@ -13,7 +12,7 @@ class Solution {
 
         TreeNode root=new TreeNode(postorder[idx--]);
 
-        int pos=start;
+        int pos=0;
         while (inorder[pos]!=root.val){
             pos++;
         }
