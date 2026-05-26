@@ -3,19 +3,19 @@ class Solution {
         return check(root.left,root.right);
     }
 
-    public boolean check(TreeNode l,TreeNode s){
-        if (l==null && s==null){
+    public boolean check(TreeNode p,TreeNode q){
+        if (p==null && q==null){
             return true;
         }
 
-        if (l==null || s==null){
+        if (p==null || q==null){
             return false;
         }
 
-        if (l.val!=s.val){
+        if (p.val != q.val){
             return false;
         }
 
-        return check(l.left,s.right) && check(l.right,s.left);
+        return check(p.left,q.right) && check(p.right,q.left);
     }
 }
