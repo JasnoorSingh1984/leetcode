@@ -5,16 +5,13 @@ class Solution {
 
     public int check(TreeNode root){
         if (root==null){
-            return 0;
+            return 1;
         }
 
         int ls=check(root.left);
-        if (ls==-1){
-            return -1;
-        }
-
         int rs=check(root.right);
-        if (rs==-1){
+
+        if (ls==-1 || rs==-1){
             return -1;
         }
 
@@ -22,6 +19,6 @@ class Solution {
             return -1;
         }
 
-        return 1+Math.max(ls,rs);
+        return 1+Math.max(ls,rs);        
     }
 }
