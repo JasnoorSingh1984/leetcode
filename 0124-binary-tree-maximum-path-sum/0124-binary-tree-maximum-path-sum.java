@@ -16,6 +16,6 @@ class Solution {
 
         arr[0]=Math.max(arr[0],root.val+ls+rs);
 
-        return root.val+Math.max(ls,rs);
+        return root.val + Math.max(ls,rs);
     }
 }
