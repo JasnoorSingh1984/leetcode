@@ -1,19 +1,15 @@
 class Solution {
     public ArrayList<Integer> topView(Node root) {
         ArrayList<Integer> arr=new ArrayList<>();
-        
         if (root==null){
             return arr;
         }
         
         TreeMap<Integer,Integer> map=new TreeMap<>();
-        
         Queue<Node> nodeq=new LinkedList<>();
         Queue<Integer> hdq=new LinkedList<>();
-        
         nodeq.add(root);
         hdq.add(0);
-        
         while (!nodeq.isEmpty()){
             Node curr=nodeq.remove();
             int hd=hdq.remove();
@@ -33,11 +29,10 @@ class Solution {
             }
         }
         
-        for (int val: map.values()){
+        for (int val:map.values()){
             arr.add(val);
-        }    
+        }
         
         return arr;
-    
     }
 }
