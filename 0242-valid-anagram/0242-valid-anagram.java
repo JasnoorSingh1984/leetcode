@@ -3,31 +3,19 @@ class Solution {
         if (s.length()!=t.length()){
             return false;
         }
+        
+        char[] arr1=s.toCharArray();
+        char[] arr2=t.toCharArray();
 
-        HashMap<Character,Integer> map=new HashMap<>();
-        for (int i=0;i<s.length();i++){
-            if (map.containsKey(s.charAt(i))){
-                int freq=map.get(s.charAt(i));
-                map.put(s.charAt(i),freq+1);
-            }else{
-                map.put(s.charAt(i),1);
-            }
-        }
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
 
-        for (int i=0;i<t.length();i++){
-            char ch=t.charAt(i);
-            if (!map.containsKey(ch)){
+        for (int i=0;i<arr1.length;i++){
+            if (arr1[i]!=(arr2[i])){
                 return false;
-            }else{
-                int freq=map.get(ch);
-                if (freq==1){
-                    map.remove(ch);
-                }else{
-                    map.put(ch,freq-1);
-                }
             }
         }
 
-        return map.isEmpty();
+        return true;
     }
 }
