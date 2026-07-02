@@ -10,11 +10,11 @@ class Solution {
             int mid=low+(high-low)/2;
 
             int midRow=mid/cols;
-            int midCols=mid%cols;
+            int midCol=mid%cols;
 
-            if (arr[midRow][midCols]==target){
+            if (arr[midRow][midCol]==target){
                 return true;
-            }else if (arr[midRow][midCols]>target){
+            }else if (arr[midRow][midCol]>target){
                 high=mid-1;
             }else{
                 low=mid+1;
