@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/2410991116/leetcode/tree/master/2058-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2410991116/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4107-find-missing-elements](https://github.com/2410991116/leetcode/tree/master/4107-find-missing-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/2410991116/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/2410991116/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2410991116/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/2410991116/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/2410991116/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/2410991116/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2410991116/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
