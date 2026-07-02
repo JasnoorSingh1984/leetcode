@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/2410991116/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/2410991116/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/2410991116/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/2410991116/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/2410991116/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/2410991116/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/2410991116/leetcode/tree/master/0088-merge-sorted-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2410991116/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2410991116/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/2410991116/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/2410991116/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2410991116/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/2410991116/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/2410991116/leetcode/tree/master/0268-missing-number) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/2410991116/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/2410991116/leetcode/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/2410991116/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Memoization
 |  |
