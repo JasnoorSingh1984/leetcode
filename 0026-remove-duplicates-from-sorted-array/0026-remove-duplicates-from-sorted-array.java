@@ -1,12 +1,10 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        ArrayList<Integer> arr=new ArrayList<>();
+        List<Integer> arr=new ArrayList<>();
 
         arr.add(nums[0]);
         for (int i=1;i<nums.length;i++){
-            if (nums[i]==nums[i-1]){
-                continue;
-            }else{
+            if (nums[i]!=nums[i-1]){
                 arr.add(nums[i]);
             }
         }
