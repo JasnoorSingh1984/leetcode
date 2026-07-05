@@ -4,8 +4,8 @@ class Solution {
 
         int m=0;
         k=k%nums.length;
-
         k=nums.length-k;
+
         for (int i=k;i<nums.length;i++){
             arr[m++]=nums[i];
         }
@@ -14,7 +14,7 @@ class Solution {
             arr[m++]=nums[i];
         }
 
-        for (int i=0;i<m;i++){
+        for (int i=0;i<nums.length;i++){
             nums[i]=arr[i];
         }
     }
