@@ -1,28 +1,21 @@
 class Solution {
     public static ArrayList<Integer> findUnion(int a[], int b[]) {
-        // code here
-        ArrayList<Integer> arr=new ArrayList<>();
-        int k=0;
+        TreeSet<Integer> set=new TreeSet<>();
         
         for (int i=0;i<a.length;i++){
-            arr.add(a[i]);
-        }
-        for (int i=0;i<b.length;i++){
-            arr.add(b[i]);
+            set.add(a[i]);
         }
         
-        Collections.sort(arr);
-        
-        ArrayList<Integer> result=new ArrayList<>();
-        result.add(arr.get(0));
-        for (int i=1;i<arr.size();i++){
-            if (arr.get(i).equals(arr.get(i-1))){
-                continue;
-            }else{
-                result.add(arr.get(i));
-            }
+        for (int j=0;j<b.length;j++){
+            set.add(b[j]);
         }
         
-        return result;
+        ArrayList<Integer> arr=new ArrayList<>();
+        
+        for (int ch:set){
+            arr.add(ch);
+        }
+        
+        return arr;
     }
 }
