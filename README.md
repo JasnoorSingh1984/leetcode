@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/2410991116/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2410991116/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2410991116/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/2410991116/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2410991116/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/2410991116/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/2410991116/leetcode/tree/master/0162-find-peak-element) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/2410991116/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2410991116/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/2410991116/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/2410991116/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/2410991116/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/2410991116/leetcode/tree/master/0342-power-of-four) |
