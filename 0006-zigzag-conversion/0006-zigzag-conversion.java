@@ -3,10 +3,12 @@ class Solution {
         if (numRows==1){
             return s;
         }
-        String[] arr=new String[numRows];
-        for (int i=0;i<arr.length;i++){
-            arr[i]="";
+
+        StringBuilder[] arr=new StringBuilder[numRows];
+        for (int i = 0; i < numRows; i++) {
+            arr[i] = new StringBuilder();
         }
+        
         int row=0;
         boolean uptodown=true;
         for (int i=0;i<s.length();i++){
@@ -18,20 +20,20 @@ class Solution {
             }
 
             if (uptodown){
-                arr[row]+=ch;
+                arr[row].append(ch);
                 row++;
             }else{
-                arr[row]+=ch;
+                arr[row].append(ch);
                 row--;
             }
         }
 
-        String str="";
+        StringBuilder str=new StringBuilder();
 
         for (int i=0;i<arr.length;i++){
-            str+=arr[i];
+            str.append(arr[i]);
         }
 
-        return str;
+        return str.toString();
     }
 }
