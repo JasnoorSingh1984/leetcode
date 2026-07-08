@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2410991116/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/2410991116/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/2410991116/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/2410991116/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/2410991116/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/2410991116/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/2410991116/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/2410991116/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/2410991116/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/2410991116/leetcode/tree/master/0075-sort-colors) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2410991116/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/2410991116/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/2410991116/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/2410991116/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
