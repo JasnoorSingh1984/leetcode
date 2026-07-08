@@ -1,32 +1,47 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Arrays.sort(nums);
-        List<Integer> freq=new ArrayList<>();
-        List<Integer> arr=new ArrayList<>();
+        int count1=0;
+        int count2=0;
+        int ele1=-1;
+        int ele2=-1;
 
-        int count=1;
-        for (int i=1;i<nums.length;i++){
-            if (nums[i]==nums[i-1]){
-                count++;
+        for (int i=0;i<nums.length;i++){
+            if (nums[i]==ele1){
+                count1++;
+            }else if (nums[i]==ele2){
+                count2++;
+            }else if (count1==0){
+                count1=1;
+                ele1=nums[i];
+            }else if(count2==0){
+                count2=1;
+                ele2=nums[i];
             }else{
-                freq.add(count);
-                arr.add(nums[i-1]);
-                count=1;
+                count1--;
+                count2--;
             }
         }
 
-        freq.add(count);
-        arr.add(nums[nums.length - 1]);
+        count1=0;
+        count2=0;
 
-        int limit = nums.length / 3;
-        List<Integer> result = new ArrayList<>();
-
-        for (int i = 0; i < freq.size(); i++) {
-            if (freq.get(i) > limit) {
-                result.add(arr.get(i));
+        for (int i=0;i<nums.length;i++){
+            if(nums[i]==ele1){
+                count1++;
+            }else if (nums[i]==ele2){
+                count2++;
             }
         }
-        
-        return result;
+
+        List<Integer> list=new ArrayList<>();
+
+        if (count1>nums.length/3){
+            list.add(ele1);
+        }
+        if (count2>nums.length/3){
+            list.add(ele2);
+        }
+
+        return list;
     }
 }
