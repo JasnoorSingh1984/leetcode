@@ -1,9 +1,24 @@
 class Solution {
-    public int majorityElement(int[] nums) {
-        if (nums.length==1){
-            return nums[0];
+    public int majorityElement(int[] arr) {
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for (int i=0;i<arr.length;i++){
+            if (map.containsKey(arr[i])){
+                int freq=map.get(arr[i]);
+                map.put(arr[i],freq+1);
+            }else{
+                map.put(arr[i],1);
+            }
         }
-        Arrays.sort(nums);
-        return nums[nums.length/2];
+
+        int max=-1;
+        int freq=-1;
+        for (int i=0;i<arr.length;i++){
+            if (map.get(arr[i])>max){
+                max=map.get(arr[i]);
+                freq=arr[i];
+            }
+        }
+
+        return freq;
     }
 }
