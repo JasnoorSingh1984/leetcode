@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/2410991116/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/2410991116/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/2410991116/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/2410991116/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2410991116/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0070-climbing-stairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/2410991116/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/2410991116/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/2410991116/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/2410991116/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/2410991116/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/2410991116/leetcode/tree/master/0066-plus-one) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/2410991116/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/2410991116/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/2410991116/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/2410991116/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/2410991116/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
