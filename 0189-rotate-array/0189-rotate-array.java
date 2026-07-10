@@ -3,16 +3,18 @@ class Solution {
         k=k%nums.length;
         k=nums.length-k;
 
-        ArrayList<Integer> arr=new ArrayList<>();
-        for (int i=k;i<nums.length;i++){
-            arr.add(nums[i]);
-        }
-        for (int i=0;i<k;i++){
-            arr.add(nums[i]);
-        }
+        swap(nums,0,k-1);
+        swap(nums,k,nums.length-1);
+        swap(nums,0,nums.length-1);
+    }
 
-        for (int i=0;i<nums.length;i++){
-            nums[i]=arr.get(i);
+    public void swap(int[] arr,int left,int right){
+        while (left<right){
+            int temp=arr[left];
+            arr[left]=arr[right];
+            arr[right]=temp;
+            left++;
+            right--;
         }
     }
 }
