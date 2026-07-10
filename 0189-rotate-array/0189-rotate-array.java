@@ -3,19 +3,16 @@ class Solution {
         k=k%nums.length;
         k=nums.length-k;
 
-        reverse(nums,0,k-1);
-        reverse(nums,k,nums.length-1);
-        reverse(nums,0,nums.length-1);
-    }
+        ArrayList<Integer> arr=new ArrayList<>();
+        for (int i=k;i<nums.length;i++){
+            arr.add(nums[i]);
+        }
+        for (int i=0;i<k;i++){
+            arr.add(nums[i]);
+        }
 
-    public void reverse(int[] nums,int start,int end){
-        while (start<end){
-            int temp=nums[start];
-            nums[start]=nums[end];
-            nums[end]=temp;
-
-            start++;
-            end--;
+        for (int i=0;i<nums.length;i++){
+            nums[i]=arr.get(i);
         }
     }
 }
