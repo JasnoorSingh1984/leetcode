@@ -6,12 +6,11 @@ class Solution {
             set.add(a[i]);
         }
         
-        for (int j=0;j<b.length;j++){
-            set.add(b[j]);
+        for (int i=0;i<b.length;i++){
+            set.add(b[i]);
         }
         
         ArrayList<Integer> arr=new ArrayList<>();
-        
         for (int ch:set){
             arr.add(ch);
         }
