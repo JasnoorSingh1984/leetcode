@@ -1,33 +1,47 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
+        Arrays.sort(nums);
         List<List<Integer>> arr=new ArrayList<>();
-        HashSet<List<Integer>> set=new HashSet<>();
 
         for (int i=0;i<nums.length;i++){
+            if (i>0 && nums[i]==nums[i-1]){
+                continue;
+            }
             for (int j=i+1;j<nums.length;j++){
-                HashSet<Integer> s=new HashSet<>();
-                for (int k=j+1;k<nums.length;k++){
-                    long rem=(long)target-nums[i]-nums[j]-nums[k];
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
+                    continue;
+                }
 
-                    if (rem>=Integer.MIN_VALUE && rem<=Integer.MAX_VALUE && s.contains((int)rem)){
-                        List<Integer> list=new ArrayList<>();
-                        list.add(nums[i]);
-                        list.add(nums[j]);
-                        list.add(nums[k]);
-                        list.add((int)rem);
+                int k=j+1;
+                int l=nums.length-1;
 
-                        Collections.sort(list);
+                while (k<l){
+                    long sum=(long)nums[i]+nums[j]+nums[k]+nums[l];
 
-                        if (!set.contains(list)){
-                            arr.add(list);
-                            set.add(list);
+                    if (sum<target){
+                        k++;
+                    }else if (sum>target){
+                        l--;
+                    }else{
+                        List<Integer> li=new ArrayList<>();
+                        li.add(nums[i]);
+                        li.add(nums[j]);
+                        li.add(nums[k]);
+                        li.add(nums[l]);
+                        arr.add(li);
+                        k++;
+                        l--;
+                        while (k<l && nums[k]==nums[k-1]){
+                            k++;
+                        }
+                        while (k<l && nums[l]==nums[l+1]){
+                            l--;
                         }
                     }
-                    s.add(nums[k]);
                 }
             }
         }
-        return arr;
 
+        return arr;
     }
 }
