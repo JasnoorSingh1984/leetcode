@@ -1,17 +1,14 @@
 class Solution {
-    public int maxArea(int[] arr) {
+    public int maxArea(int[] nums) {
+        int max=0;
         int left=0;
-        int right=arr.length-1;
-
-        int max=-1;
+        int right=nums.length-1;
 
         while (left<right){
-            int width=right-left;
-            int area=Math.min(arr[left],arr[right])*width;
+            int min=Math.min(nums[left],nums[right]);
+            max=Math.max(max,min*(right-left));
 
-            max=Math.max(max,area);
-
-            if (arr[left]<arr[right]){
+            if (nums[left]<nums[right]){
                 left++;
             }else{
                 right--;
