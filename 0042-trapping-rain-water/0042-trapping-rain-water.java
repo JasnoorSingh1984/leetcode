@@ -1,20 +1,22 @@
 class Solution {
     public int trap(int[] nums) {
-        int[] prefix=new int[nums.length];
-        prefix[0]=nums[0];
-        for (int i=1;i<nums.length;i++){
-            prefix[i]=Math.max(prefix[i-1],nums[i]);
-        }
-
-        int[] sufix=new int[nums.length];
-        sufix[nums.length-1]=nums[nums.length-1];
-        for (int i=nums.length-2;i>=0;i--){
-            sufix[i]=Math.max(sufix[i+1],nums[i]);
-        }
-
         int total=0;
-        for (int i=0;i<nums.length;i++){
-            total+=Math.min(prefix[i],sufix[i])-nums[i];
+        int lmax=0;
+        int rmax=0;
+
+        int left=0;
+        int right=nums.length-1;
+        while (left<right){
+            lmax=Math.max(lmax,nums[left]);
+            rmax=Math.max(rmax,nums[right]);
+
+            if (lmax<=rmax){
+                total+=lmax-nums[left];
+                left++;
+            }else{
+                total+=rmax-nums[right];
+                right--;
+            }
         }
 
         return total;
