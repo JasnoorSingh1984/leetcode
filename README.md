@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2410991116/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/2410991116/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/2410991116/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/2410991116/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/2410991116/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/2410991116/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2410991116/leetcode/tree/master/0125-valid-palindrome) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2410991116/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/2410991116/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/2410991116/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/2410991116/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/2410991116/leetcode/tree/master/0118-pascals-triangle) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/2410991116/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/2410991116/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/2410991116/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/2410991116/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/2410991116/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/2410991116/leetcode/tree/master/0051-n-queens) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2410991116/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/2410991116/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/2410991116/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2410991116/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/2410991116/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
 ## Simulation
