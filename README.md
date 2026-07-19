@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/2410991116/leetcode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/2410991116/leetcode/tree/master/1446-consecutive-characters) |
 ## Dynamic Programming
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/2410991116/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/2410991116/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/2410991116/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4107-find-missing-elements](https://github.com/2410991116/leetcode/tree/master/4107-find-missing-elements) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/2410991116/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/2410991116/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/2410991116/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/2410991116/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
