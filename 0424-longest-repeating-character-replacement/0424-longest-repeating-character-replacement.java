@@ -6,12 +6,11 @@ class Solution {
 
         int left=0;
         int right=0;
-        
+
         while (right<s.length()){
             char ch=s.charAt(right);
             if (map.containsKey(ch)){
-                int freq=map.get(ch);
-                map.put(ch,freq+1);
+                map.put(ch,map.get(ch)+1);
             }else{
                 map.put(ch,1);
             }
@@ -24,7 +23,7 @@ class Solution {
                 left++;
             }
 
-            max=Math.max(max,(right-left+1));
+            max=Math.max(max,right-left+1);
             right++;
         }
 
