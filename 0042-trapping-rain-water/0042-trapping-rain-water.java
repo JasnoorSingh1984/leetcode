@@ -10,7 +10,7 @@ class Solution {
             lmax=Math.max(lmax,nums[left]);
             rmax=Math.max(rmax,nums[right]);
 
-            if (lmax<=rmax){
+            if (lmax<rmax){
                 total+=lmax-nums[left];
                 left++;
             }else{
