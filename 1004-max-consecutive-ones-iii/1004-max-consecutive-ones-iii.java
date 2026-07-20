@@ -9,6 +9,7 @@ class Solution {
             if (nums[right]==0){
                 zero++;
             }
+
             while (zero>k){
                 if (nums[left]==0){
                     zero--;
