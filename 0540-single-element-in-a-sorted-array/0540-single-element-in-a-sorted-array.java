@@ -1,18 +1,41 @@
 class Solution {
-    public int singleNonDuplicate(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        
-        for (int i=0;i<nums.length;i++){
-            if (map.containsKey(nums[i])){
-                map.put(nums[i],map.get(nums[i])+1);
-            }else{
-                map.put(nums[i],1);
-            }
+    public int singleNonDuplicate(int[] arr) {
+        if (arr.length==0){
+            return -1;
         }
 
-        for (Integer ch:map.keySet()){
-            if (map.get(ch)==1){
-                return ch;
+        if (arr.length==1){
+            return arr[0];
+        }
+
+        int low=0;
+        int high=arr.length-1;
+
+        while (low<=high){
+            int mid=low+(high-low)/2;
+
+            if (mid == 0) {
+                if (arr[0] != arr[1]) return arr[0];
+            }else if(mid == arr.length - 1) {
+                if (arr[mid] != arr[mid - 1]) return arr[mid];
+            }else if (arr[mid]!=arr[mid-1] && arr[mid]!=arr[mid+1]){
+                return arr[mid];
+            }
+
+            int first=mid,last=mid;
+            if (arr[mid]==arr[mid-1]){
+                first=mid-1;
+            }else{
+                last=mid+1;
+            }
+
+            int left=first-low;
+            int right=high-last;
+
+            if (left%2==0){
+                low=last+1;
+            }else{
+                high=first-1;
             }
         }
 
