@@ -1,9 +1,5 @@
 class Solution {
     public int singleNonDuplicate(int[] arr) {
-        if (arr.length==0){
-            return -1;
-        }
-
         if (arr.length==1){
             return arr[0];
         }
@@ -15,9 +11,13 @@ class Solution {
             int mid=low+(high-low)/2;
 
             if (mid == 0) {
-                if (arr[0] != arr[1]) return arr[0];
+                if (arr[0] != arr[1]){
+                    return arr[0];
+                }
             }else if(mid == arr.length - 1) {
-                if (arr[mid] != arr[mid - 1]) return arr[mid];
+                if (arr[mid] != arr[mid - 1]) {
+                    return arr[mid];
+                }
             }else if (arr[mid]!=arr[mid-1] && arr[mid]!=arr[mid+1]){
                 return arr[mid];
             }
