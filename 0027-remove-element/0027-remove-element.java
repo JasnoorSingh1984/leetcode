@@ -1,19 +1,31 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        ArrayList<Integer> arr=new ArrayList<Integer>();
-
+        int left=-1;
         for (int i=0;i<nums.length;i++){
             if (nums[i]==val){
-                continue;
-            }else{
-                arr.add(nums[i]);
+                left=i;
+                break;
             }
         }
 
-        for (int i=0;i<arr.size();i++){
-            nums[i]=arr.get(i);
+        if (left==-1){
+            return nums.length;
         }
 
-        return arr.size();
+        int right=left+1;
+
+        while (right<nums.length){
+            if (nums[right]!=val){
+                int temp=nums[left];
+                nums[left]=nums[right];
+                nums[right]=temp;
+
+                left++;
+            }
+
+            right++;
+        }
+
+        return left;
     }
 }
