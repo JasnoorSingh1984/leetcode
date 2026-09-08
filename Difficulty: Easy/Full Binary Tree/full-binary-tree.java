@@ -1,4 +1,3 @@
-
 class Solution {
     public boolean isFullTree(Node root) {
         if (root.left==null && root.right==null){
