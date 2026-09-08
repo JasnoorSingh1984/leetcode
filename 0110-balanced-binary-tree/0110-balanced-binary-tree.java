@@ -1,12 +1,17 @@
 class Solution {
-    boolean flag;
     public boolean isBalanced(TreeNode root) {
         if (root==null){
             return true;
         }
-        flag=true;
-        level(root);
-        return flag;
+
+        int left=level(root.left);
+        int right=level(root.right);
+
+        if (Math.abs(left-right)>1){
+            return false;
+        }
+
+        return isBalanced(root.left) && isBalanced(root.right);
     }
 
     public int level(TreeNode root){
@@ -14,13 +19,6 @@ class Solution {
             return 0;
         }
 
-        int left=level(root.left);
-        int right=level(root.right);
-
-        if (Math.abs(left-right)>1){
-            flag=false;
-        }
-
-        return 1 + Math.max(left,right);
+        return 1 + Math.max(level(root.left),level(root.right));
     }
 }
