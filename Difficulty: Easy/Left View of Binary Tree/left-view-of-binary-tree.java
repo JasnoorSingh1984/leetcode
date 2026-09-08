@@ -1,34 +1,20 @@
 class Solution {
     public ArrayList<Integer> leftView(Node root) {
-        ArrayList<Integer> ans=new ArrayList<>();
+        ArrayList<Integer> arr=new ArrayList<>();
+        view(root,0,arr);
+        return arr;
+    }
+    
+    public void view(Node root,int level,ArrayList<Integer> arr){
         if (root==null){
-            return ans;
+            return;
         }
         
-        List<List<Integer>> arr=new ArrayList<>();
-        Queue<Node> q=new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()){
-            int size=q.size();
-            List<Integer> l=new ArrayList<>();
-            for (int i=0;i<size;i++){
-                Node curr=q.remove();
-                l.add(curr.data);
-                
-                if (curr.left!=null){
-                    q.add(curr.left);
-                }
-                if (curr.right!=null){
-                    q.add(curr.right);
-                }
-            }
-            arr.add(l);
+        if (level >= arr.size()){
+            arr.add(root.data);
         }
         
-        for (List<Integer> list:arr){
-            ans.add(list.get(0));
-        }
-        
-        return ans;
+        view(root.left,level+1,arr);
+        view(root.right,level+1,arr);
     }
 }
