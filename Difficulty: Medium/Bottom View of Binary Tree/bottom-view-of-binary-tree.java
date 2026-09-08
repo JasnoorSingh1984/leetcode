@@ -1,30 +1,32 @@
 class Solution {
     public ArrayList<Integer> bottomView(Node root) {
         ArrayList<Integer> arr=new ArrayList<>();
+        
         if (root==null){
             return arr;
         }
         
         TreeMap<Integer,Integer> map=new TreeMap<>();
         Queue<Node> nodeq=new LinkedList<>();
-        Queue<Integer> hdq=new LinkedList<>();
+        Queue<Integer> posq=new LinkedList<>();
+        
         nodeq.add(root);
-        hdq.add(0);
+        posq.add(0);
         
         while (!nodeq.isEmpty()){
             Node curr=nodeq.remove();
-            int hd=hdq.remove();
+            int pos=posq.remove();
             
-            map.put(hd,curr.data);
+            map.put(pos,curr.data);
             
             if (curr.left!=null){
                 nodeq.add(curr.left);
-                hdq.add(hd-1);
+                posq.add(pos-1);
             }
             
             if (curr.right!=null){
                 nodeq.add(curr.right);
-                hdq.add(hd+1);
+                posq.add(pos+1);
             }
         }
         
