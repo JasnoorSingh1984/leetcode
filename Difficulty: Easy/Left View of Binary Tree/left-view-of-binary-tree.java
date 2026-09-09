@@ -1,6 +1,7 @@
 class Solution {
     public ArrayList<Integer> leftView(Node root) {
         ArrayList<Integer> arr=new ArrayList<>();
+        
         view(root,0,arr);
         return arr;
     }
@@ -10,7 +11,7 @@ class Solution {
             return;
         }
         
-        if (level >= arr.size()){
+        if (level>=arr.size()){
             arr.add(root.data);
         }
         
