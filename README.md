@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/2410991116/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/2410991116/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/2410991116/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/2410991116/leetcode/tree/master/1143-longest-common-subsequence) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/2410991116/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/2410991116/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/2410991116/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/2410991116/leetcode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/2410991116/leetcode/tree/master/0748-shortest-completing-word) |
 | [0792-binary-search](https://github.com/2410991116/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2410991116/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
