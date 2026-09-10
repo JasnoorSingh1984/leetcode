@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2410991116/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/2410991116/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/2410991116/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/2410991116/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Array
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/2410991116/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/2410991116/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2410991116/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/2410991116/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/2410991116/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/2410991116/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2410991116/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/2410991116/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/2410991116/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2410991116/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/2410991116/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Memoization
 |  |
