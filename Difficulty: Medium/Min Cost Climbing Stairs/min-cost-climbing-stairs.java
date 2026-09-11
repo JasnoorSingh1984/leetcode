@@ -1,23 +1,15 @@
 class Solution {
-    static int[] dp;
     static int minCostClimbingStairs(int[] cost) {
-        dp=new int[cost.length];
-        Arrays.fill(dp,-1);
-        return Math.min(find(0,cost),find(1,cost));
-    }
-    
-    static int find(int i,int[] arr){
-        if (i>=arr.length){
-            return 0;
+        int a=cost[0];
+        int b=cost[1];
+        int c=-1;
+        
+        for (int i=2;i<cost.length;i++){
+            c=cost[i] + Math.min(a,b);
+            a=b;
+            b=c;
         }
         
-        if (dp[i]!=-1){
-            return dp[i];
-        }
-        
-        int pick=arr[i] + find(i+1,arr);
-        int skip=arr[i] + find(i+2,arr);
-        
-        return dp[i]=Math.min(pick,skip);
+        return Math.min(a,b);
     }
 };
