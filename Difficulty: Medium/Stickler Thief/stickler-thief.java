@@ -1,25 +1,25 @@
 class Solution {
-    static int[] dp;
     public int findMaxSum(int arr[]) {
-        dp=new int[arr.length];
-        Arrays.fill(dp,-1);
-        return loot(0,arr);
-    }
-    
-    public int loot(int i,int[] arr){
-        if (i>=arr.length){
-            return 0;
+        int[] dp=new int[3];
+        dp[0]=arr[0];
+        if (arr.length==1){
+            return arr[0];
         }
         
-        if (dp[i]!=-1){
-            return dp[i];
+        if (arr.length==2){
+            return Math.max(arr[0],arr[1]);
         }
         
-        int pick=arr[i] + loot(i+2,arr);
-        int skip=loot(i+1,arr);
+        if (arr.length>1){
+            dp[1]=Math.max(arr[0],arr[1]);
+        }
         
-        dp[i]=Math.max(pick,skip);
+        for (int i=2;i<arr.length;i++){
+            dp[2]=Math.max(dp[1],arr[i]+dp[0]);
+            dp[0]=dp[1];
+            dp[1]=dp[2];
+        }
         
-        return Math.max(pick,skip);    
+        return dp[2];
     }
 }
