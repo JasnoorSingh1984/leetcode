@@ -1,66 +1,71 @@
 class Solution {
-    ArrayList<Integer> boundaryTraversal(Node root) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        if (!isleaf(root)){
-            arr.add(root.data);
-        }
-        addleft(root,arr);
-        addleaf(root,arr);
-        addright(root,arr);
-        
-        return arr;
-    }
-    
-    boolean isleaf(Node root){
-        return root.left==null && root.right==null;
-    }
-    
-    void addleft(Node root,ArrayList<Integer> arr){
-        Node curr=root.left;
-        while (curr!=null){
-            if (!isleaf(curr)){
-                arr.add(curr.data);
-            }
-            
-            if (curr.left!=null){
-                curr=curr.left;
-            }else{
-                curr=curr.right;
-            }
-        }
-    }
-    
-    void addright(Node root,ArrayList<Integer> arr){
-        ArrayList<Integer> ans=new ArrayList<>();
-        Node curr=root.right;
-        while (curr!=null){
-            if (!isleaf(curr)){
-                ans.add(curr.data);
-            }
-            
-            if (curr.right!=null){
-                curr=curr.right;
-            }else{
-                curr=curr.left;
-            }
+    public void leftadd(Node root,List<Integer> arr){
+        if (root==null){
+            return ;
         }
         
-        for (int i=ans.size()-1;i>=0;i--){
-            arr.add(ans.get(i));
+        while (root.left!=null || root.right!=null){
+            arr.add(root.data);
+            if (root.left!=null){
+                root=root.left;
+            }else{
+                root=root.right;
+            }
         }
     }
     
-    void addleaf(Node root,ArrayList<Integer> arr){
-        if (isleaf(root)){
-            arr.add(root.data);
+    public void leafadd(Node root,List<Integer> arr){
+        if (root==null){
             return;
         }
         
+        if (root.left==null && root.right==null){
+            arr.add(root.data);
+        }
+        
+        leafadd(root.left,arr);
+        leafadd(root.right,arr);
+    }
+    
+    public void rightadd(Node root,List<Integer> arr){
+        if (root==null){
+            return;
+        }
+        
+        while (root.left!=null || root.right!=null){
+            arr.add(0,root.data);
+            if (root.right!=null){
+                root=root.right;
+            }else{
+                root=root.left;
+            }
+        }
+        
+        arr.remove(arr.size()-1);
+    }
+    
+    public ArrayList<Integer> boundaryTraversal(Node root) {
+        ArrayList<Integer> arr=new ArrayList<>();
+        arr.add(root.data);
+        
         if (root.left!=null){
-            addleaf(root.left,arr);
+            List<Integer> left=new ArrayList<>();
+            leftadd(root.left,left);
+            arr.addAll(left);
         }
+        
+        if (root.left!=null || root.right!=null){
+            List<Integer> leaf=new ArrayList<>();
+            leafadd(root,leaf);
+            arr.addAll(leaf);
+        }
+        
         if (root.right!=null){
-            addleaf(root.right,arr);
+            List<Integer> right=new ArrayList<>();
+            rightadd(root,right);
+            arr.addAll(right);
         }
+        
+        return arr;
     }
 }
