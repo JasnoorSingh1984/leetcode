@@ -1,28 +1,23 @@
 class Solution {
     public void flatten(TreeNode root) {
-        if (root==null){
-            return;
-        }
+        if (root==null) return;
+
+        TreeNode left=root.left;
+        TreeNode right=root.right;
+
+        root.left=null;
+        root.right=null;
+
+        flatten(left);
+        flatten(right);
         
-        ArrayList<TreeNode> arr=new ArrayList<>();
-        putEle(root,arr);
-
-        for (int i=0;i<arr.size()-1;i++){
-            arr.get(i).left=null;
-            arr.get(i).right=arr.get(i+1);
+        root.right=left;
+        TreeNode last=left;
+        if (last!=null){
+            while (last.right!=null) last=last.right;
+            last.right=right;
+        }else{
+            root.right=right;
         }
-
-        arr.get(arr.size()-1).left=null;
-        arr.get(arr.size()-1).right=null;
-    }
-
-    public void putEle(TreeNode root,ArrayList<TreeNode> arr){
-        if (root==null){
-            return;
-        }
-
-        arr.add(root);
-        putEle(root.left,arr);
-        putEle(root.right,arr);
     }
 }
