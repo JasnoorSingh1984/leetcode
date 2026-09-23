@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2410991116/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/2410991116/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/2410991116/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -767,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
