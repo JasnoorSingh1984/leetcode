@@ -1,24 +1,26 @@
 class Solution {
-    int idx;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        idx=postorder.length-1;
-        return check(inorder,postorder,0,inorder.length-1);
+        int n=postorder.length;
+        return build(postorder,inorder,0,n-1,0,n-1);
     }
 
-    public TreeNode check(int[] inorder,int[] postorder,int start,int end){
-        if (start>end){
-            return null;
+    public TreeNode build(int[] postorder,int[] inorder,int plow,int phigh,int ilow,int ihigh){
+        if(plow>phigh) return null;
+
+        int val=postorder[phigh];
+        TreeNode root=new TreeNode(val);
+
+        int r=-1;
+        for (int i=ilow;i<=ihigh;i++){
+            if (inorder[i]==val){
+                r=i;
+                break;
+            }
         }
+        int cnt=r-ilow;
 
-        TreeNode root=new TreeNode(postorder[idx--]);
-
-        int pos=0;
-        while (inorder[pos]!=root.val){
-            pos++;
-        }
-
-        root.right=check(inorder,postorder,pos+1,end);
-        root.left=check(inorder,postorder,start,pos-1);
+        root.left=build(postorder,inorder,plow,plow+cnt-1,ilow,r-1);
+        root.right=build(postorder,inorder,plow+cnt,phigh-1,r+1,ihigh);
 
         return root;
     }
