@@ -1,23 +1,27 @@
 class Solution {
-    int idx=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return check(preorder,inorder,0,inorder.length-1);
+        int n=preorder.length;
+        return build(preorder,inorder,0,n-1,0,n-1);
     }
 
-    public TreeNode check(int[] preorder,int[] inorder,int start,int end){
-        if (start>end){
-            return null;
+    public TreeNode build(int[] preorder,int[] inorder,int plow,int phigh,int ilow,int ihigh){
+        if (plow>phigh) return null;
+
+        int val=preorder[plow];
+        TreeNode root=new TreeNode(val);
+
+        int r=-1;
+        for (int i=ilow;i<=ihigh;i++){
+            if (inorder[i]==val){
+                r=i;
+                break;
+            }
         }
 
-        TreeNode root=new TreeNode(preorder[idx++]);
+        int cnt=r-ilow;
 
-        int pos=0;
-        while (inorder[pos]!=root.val){
-            pos++;
-        }
-
-        root.left=check(preorder,inorder,start,pos-1);
-        root.right=check(preorder,inorder,pos+1,end);
+        root.left=build(preorder,inorder,plow+1,plow+cnt,ilow,r-1);
+        root.right=build(preorder,inorder,plow+cnt+1,phigh,r+1,ihigh);
 
         return root;
     }
