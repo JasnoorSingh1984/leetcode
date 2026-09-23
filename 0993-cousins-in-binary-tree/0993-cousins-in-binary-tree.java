@@ -26,10 +26,8 @@ class Solution {
                 }
             }
 
-            for (int val:arr){
-                if (arr.contains(x) && arr.contains(y)){
-                    return true;
-                }
+            if (arr.contains(x) && arr.contains(y)){
+                return true;
             }
         }
 
