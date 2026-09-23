@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2410991116/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/2410991116/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/2410991116/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Monotonic Stack
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/2410991116/leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/2410991116/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/2410991116/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/2410991116/leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/2410991116/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/2410991116/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/2410991116/leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/2410991116/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/2410991116/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/2410991116/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Merge Sort
 |  |
