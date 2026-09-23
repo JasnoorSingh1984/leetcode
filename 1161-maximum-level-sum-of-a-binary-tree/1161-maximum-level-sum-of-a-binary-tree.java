@@ -4,17 +4,18 @@ class Solution {
             return 1;
         }
 
-        List<List<Integer>> arr=new ArrayList<>();
+        int maxsum=Integer.MIN_VALUE;
+        int maxlevel=1;
+        int level=1;
         Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
         while (!q.isEmpty()){
             int size=q.size();
-            List<Integer> l=new ArrayList<>();
-
+            int sum=0;
             for (int i=0;i<size;i++){
                 TreeNode curr=q.remove();
 
-                l.add(curr.val);
+                sum+=curr.val;
 
                 if (curr.left!=null){
                     q.add(curr.left);
@@ -24,24 +25,13 @@ class Solution {
                 }
             }
 
-            arr.add(l);
+            if (sum>maxsum){
+                maxsum=sum;
+                maxlevel=level;
+            }
+            level++;
         }
 
-        int max=Integer.MIN_VALUE;
-        int pos=0;
-        int idx=0;
-        for (List<Integer> list:arr){
-            int sum=0;
-            idx++;
-            for (int i=0;i<list.size();i++){
-                sum+=list.get(i);
-            }
-            if (sum>max){
-                max=sum;
-                pos=idx;
-            }
-        }
-
-        return pos;
+        return maxlevel;
     }
 }
