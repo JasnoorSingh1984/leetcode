@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/2410991116/leetcode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/2410991116/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/2410991116/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/2410991116/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/2410991116/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/2410991116/leetcode/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/2410991116/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2410991116/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/2410991116/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/2410991116/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -783,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
