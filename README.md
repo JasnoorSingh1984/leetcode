@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/2410991116/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/2410991116/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/2410991116/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
