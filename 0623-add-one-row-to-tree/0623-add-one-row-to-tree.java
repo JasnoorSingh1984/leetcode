@@ -5,38 +5,30 @@ class Solution {
             node.left=root;
             return node;
         }
-        
-        int level=1;
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()){
-            int size=q.size();
 
-            for (int i=0;i<size;i++){
-                TreeNode curr=q.remove();
-
-                if (level==depth-1){
-                    TreeNode node=new TreeNode(val);
-                    TreeNode temp=curr.left;
-                    curr.left=node;
-                    node.left=temp;
-                    
-                    TreeNode node1=new TreeNode(val);
-                    TreeNode temp1=curr.right;
-                    curr.right=node1;
-                    node1.right=temp1;
-                }
-
-                if (curr.left!=null) q.add(curr.left);
-                if (curr.right!=null) q.add(curr.right);
-            }
-
-            if (level==depth-1){
-                break;
-            }
-            level++;
-        }
-
+        doing(root,val,depth,1);
         return root;
     }
+
+    public void doing(TreeNode root,int val,int depth,int i){
+        if (root==null) return;
+
+        if (i==depth-1){
+            TreeNode left=new TreeNode (val);
+            TreeNode temp=root.left;
+            root.left=left;
+            left.left=temp;
+
+            TreeNode right=new TreeNode(val);
+            TreeNode temp2=root.right;
+            root.right=right;
+            right.right=temp2;
+
+            return;
+        }
+
+        doing(root.left,val,depth,i+1);
+        doing(root.right,val,depth,i+1);
+    }
+
 }
