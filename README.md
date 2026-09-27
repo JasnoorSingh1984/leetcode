@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/2410991116/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/2410991116/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/2410991116/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/2410991116/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/2410991116/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/2410991116/leetcode/tree/master/0968-binary-tree-cameras) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/2410991116/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/2410991116/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/2410991116/leetcode/tree/master/0968-binary-tree-cameras) |
