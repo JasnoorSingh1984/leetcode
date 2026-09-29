@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
