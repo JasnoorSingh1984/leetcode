@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/2410991116/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/2410991116/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/2410991116/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2410991116/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2410991116/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
