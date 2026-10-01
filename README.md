@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/2410991116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/2410991116/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2109-adding-spaces-to-a-string](https://github.com/2410991116/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/2410991116/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -988,10 +992,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Combinatorics
 |  |
 | ------- |
