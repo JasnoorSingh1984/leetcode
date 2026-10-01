@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2410991116/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/2410991116/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/2410991116/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/2410991116/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/2410991116/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
