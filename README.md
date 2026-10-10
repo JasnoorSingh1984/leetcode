@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/2410991116/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/2410991116/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/2410991116/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/2410991116/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/2410991116/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/2410991116/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
@@ -893,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/2410991116/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/2410991116/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/2410991116/leetcode/tree/master/1361-validate-binary-tree-nodes) |
