@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2410991116/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/2410991116/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2410991116/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/2410991116/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/2410991116/leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/2410991116/leetcode/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Matrix
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/2410991116/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2410991116/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
