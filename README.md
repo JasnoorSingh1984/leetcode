@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/2410991116/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/2410991116/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Matrix
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/2410991116/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/2410991116/leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/2410991116/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/2410991116/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/2410991116/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/2410991116/leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
