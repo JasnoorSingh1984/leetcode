@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/2410991116/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2410991116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/2410991116/leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2410991116/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2410991116/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/2410991116/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/2410991116/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/2410991116/leetcode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/2410991116/leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/2410991116/leetcode/tree/master/0748-shortest-completing-word) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/2410991116/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/2410991116/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/2410991116/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/2410991116/leetcode/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/2410991116/leetcode/tree/master/0748-shortest-completing-word) |
 | [0859-buddy-strings](https://github.com/2410991116/leetcode/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/2410991116/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/2410991116/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/2410991116/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0705-design-hashset](https://github.com/2410991116/leetcode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
@@ -1024,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/2410991116/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/2410991116/leetcode/tree/master/0705-design-hashset) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Merge Sort
 |  |
