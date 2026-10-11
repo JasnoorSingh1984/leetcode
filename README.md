@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/2410991116/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/2410991116/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/2410991116/leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/2410991116/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/2410991116/leetcode/tree/master/0509-fibonacci-number) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/2410991116/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/2410991116/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/2410991116/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/2410991116/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/2410991116/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/2410991116/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/2410991116/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2410991116/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/2410991116/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/2410991116/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/2410991116/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/2410991116/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
