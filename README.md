@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/2410991116/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/2410991116/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/2410991116/leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/2410991116/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2410991116/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
