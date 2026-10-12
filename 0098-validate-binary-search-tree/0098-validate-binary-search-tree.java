@@ -1,20 +1,13 @@
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        List<Integer> arr=new ArrayList<>();
-        inorder(root,arr);
-
-        for (int i=1;i<arr.size();i++){
-            if (arr.get(i)<=arr.get(i-1)) return false;
-        }
-
-        return true;
+        return find(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 
-    public void inorder(TreeNode root,List<Integer> arr){
-        if (root==null) return;
+    public boolean find(TreeNode root,long min,long max){
+        if (root==null) return true;
 
-        inorder(root.left,arr);
-        arr.add(root.val);
-        inorder(root.right,arr);
+        if (root.val<=min || root.val>=max) return false;
+
+        return find(root.left,min,root.val) && find(root.right,root.val,max);
     }
 }
