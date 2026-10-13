@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/2410991116/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/2410991116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/2410991116/leetcode/tree/master/0880-decoded-string-at-index) |
+| [0897-increasing-order-search-tree](https://github.com/2410991116/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991116/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/2410991116/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/2410991116/leetcode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/2410991116/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/2410991116/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/2410991116/leetcode/tree/master/0968-binary-tree-cameras) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/2410991116/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2410991116/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/2410991116/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/2410991116/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/2410991116/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/2410991116/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/2410991116/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/2410991116/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/2410991116/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/2410991116/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/2410991116/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2410991116/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
