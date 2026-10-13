@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/2410991116/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/2410991116/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/2410991116/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/2410991116/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/2410991116/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/2410991116/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/2410991116/leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/2410991116/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/2410991116/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/2410991116/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/2410991116/leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/2410991116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/2410991116/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/2410991116/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/2410991116/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
 |  |
 | ------- |
