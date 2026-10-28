@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/2410991116/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/2410991116/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2410991116/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1710-maximum-units-on-a-truck](https://github.com/2410991116/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2410991116/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2410991116/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/2410991116/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2410991116/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1710-maximum-units-on-a-truck](https://github.com/2410991116/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2410991116/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [4107-find-missing-elements](https://github.com/2410991116/leetcode/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2410991116/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/2410991116/leetcode/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/2410991116/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/2410991116/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2410991116/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/2410991116/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2410991116/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
