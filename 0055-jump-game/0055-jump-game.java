@@ -1,26 +1,20 @@
 class Solution {
-    int[] dp;
-    public boolean find(int i,int[] nums){
-        if (i>=nums.length-1) return true;
+    public boolean canJump(int[] nums) {
+        int l=0;
+        int r=0;
 
-        if (dp[i]!=-1) return dp[i]==1;
-
-        for (int j=1;j<=nums[i];j++){
-            if (find(i+j,nums)){
-                dp[i]=1;
-                return true;
+        while (r<nums.length-1){
+            int far=r;
+            for (int i=l;i<=r;i++){
+                far=Math.max(far,i+nums[i]);
             }
+
+            if (far==r) return false;
+
+            l=r+1;
+            r=far;
         }
 
-        dp[i]=0;
-        return false;
-
-    }
-
-    public boolean canJump(int[] nums) {
-        dp=new int[nums.length];
-        Arrays.fill(dp,-1);
-
-        return find(0,nums); 
+        return true;
     }
 }
