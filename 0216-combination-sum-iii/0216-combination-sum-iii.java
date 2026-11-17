@@ -1,25 +1,27 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> arr=new ArrayList<>();
-        List<Integer> sub=new ArrayList<>();
-        print(k,n,1,sub,arr);
+        List<Integer> l=new ArrayList<>();
+        find(k,n,1,arr,l);
         return arr;
     }
 
-    public void print(int k,int n,int idx,List<Integer> sub,List<List<Integer>> arr){
-        if (k==0 && n==0){
-            arr.add(new ArrayList<>(sub));
-            return;
-        }
-
-        if (k==0 && n!=0){
+    public void find(int n,int k,int idx,List<List<Integer>> arr,List<Integer> l){
+        if (n==0){
+            if (k==0){
+                arr.add(new ArrayList<>(l));
+            }
             return;
         }
 
         for (int i=idx;i<=9;i++){
-            sub.add(i);
-            print(k-1,n-i,i+1,sub,arr);
-            sub.remove(sub.size()-1);
+            if (i>k) break;
+
+            l.add(i);
+            k-=i;
+            find(n-1,k,i+1,arr,l);
+            l.remove(l.size()-1);
+            k+=i;
         }
     }
 }
