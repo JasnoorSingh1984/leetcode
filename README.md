@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/2410991116/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/2410991116/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/2410991116/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/2410991116/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/2410991116/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/2410991116/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/2410991116/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/2410991116/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/2410991116/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/2410991116/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/2410991116/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2410991116/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2410991116/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/2410991116/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/2410991116/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/2410991116/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/2410991116/leetcode/tree/master/0494-target-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/2410991116/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -1204,11 +1207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/2410991116/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/2410991116/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/2410991116/leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/2410991116/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/2410991116/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/2410991116/leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/2410991116/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
