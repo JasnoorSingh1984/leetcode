@@ -3,12 +3,11 @@ class Solution {
         int max=0;
         int min=arr[0];
 
-        for (int i=1;i<arr.length;i++){
-            int cost=arr[i]-min;
-            max=Math.max(max,cost);
+        for (int i=0;i<arr.length;i++){
+            max=Math.max(max,arr[i]-min);
             min=Math.min(min,arr[i]);
         }
-
+        
         return max;
     }
 }
