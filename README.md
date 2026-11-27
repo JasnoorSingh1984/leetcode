@@ -1225,4 +1225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/2410991116/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/2410991116/leetcode/tree/master/0518-coin-change-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
