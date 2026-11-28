@@ -2,14 +2,12 @@ class Solution {
     public int minEatingSpeed(int[] nums, int h) {
         int max=0;
         for (int i=0;i<nums.length;i++){
-            if (nums[i]>max){
-                max=nums[i];
-            }
+            max=Math.max(max,nums[i]);
         }
 
+        int ans=0;
         int low=1;
         int high=max;
-        int ans=0;
 
         while (low<=high){
             int mid=low+(high-low)/2;
@@ -29,8 +27,10 @@ class Solution {
     public long find(int[] nums,int h){
         long sum=0;
         for (int i=0;i<nums.length;i++){
-            sum+=(long)Math.ceil((double)nums[i]/h);
+            sum+=nums[i]/h;
+            if (nums[i]%h!=0) sum+=1;
         }
+
         return sum;
     }
 }
