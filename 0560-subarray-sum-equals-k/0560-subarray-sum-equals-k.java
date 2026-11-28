@@ -4,24 +4,15 @@ class Solution {
         map.put(0,1);
 
         int count=0;
-        int right=0;
         int sum=0;
-
-        while (right<nums.length){
-            sum+=nums[right];
+        for (int i=0;i<nums.length;i++){
+            sum+=nums[i];
             int rem=sum-k;
 
-            if (map.containsKey(rem)){
-                count+=map.get(rem);
-            }
+            if (map.containsKey(rem)) count+=map.get(rem);
 
-            if (map.containsKey(sum)){
-                map.put(sum,map.get(sum)+1);
-            }else{
-                map.put(sum,1);
-            }
-
-            right++;
+            if (map.containsKey(sum)) map.put(sum,map.get(sum)+1);
+            else map.put(sum,1);
         }
 
         return count;
